@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World!</string>
-    <string name="app_name">MissedCallReminder</string>
+    <string name="app_name">Missed Call Reminder</string>
+    <string name="app_desc">This application remind you on periodically if you not notify your missed call</string>
 </resources>

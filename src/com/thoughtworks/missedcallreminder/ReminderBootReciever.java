@@ -8,8 +8,9 @@ public class ReminderBootReciever extends BroadcastReceiver {
 
 	@Override
 	public void onReceive(Context arg0, Intent arg1) {
+		// NOT USED NOW
 		Intent serviceIntent = new Intent();
-		serviceIntent.setAction("com.thoughtworks.missedcallreminder.ReminderService");
+		serviceIntent.setAction("ReminderService");
 
 	}
 
